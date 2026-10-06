@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local config
+config.local.yaml
+*.local.yaml
+
+# Test
+coverage/
+.nyc_output/
+
+# Build
+dist/
